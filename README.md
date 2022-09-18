@@ -1,2 +1,2 @@
 # cdlab
-programs for cdlab 6th sem
+programs for compiler design lab 6th sem
